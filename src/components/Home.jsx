@@ -38,7 +38,9 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-            I am a motivated and detail-oriented final-year BCA student at IPEM Group of Institutions with strong technical skills in C, C++, HTML,CSS,JavaScript,Bootstrap,Reactjs,Nodejs,Expressjs,MongoDB, and Data Structures. As a result-oriented professional, I am eager to build a career in a field where I can showcase my skills. I thrive as a team player and believe that maintaining a positive attitude can take my career to new heights.
+            Developed skills in collaborative, fast-paced development environment, focusing on both front-end and back-end technologies.
+
+             Demonstrates strong analydcal abilities and effective problem-solving techniques, with focus on              delivering high-quality solutions. Seeking to transition into new field, leveraging versatile skill set to contribute to diverse projects.
             </p>
             <br />
             {/* social media icons */}

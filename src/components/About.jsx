@@ -9,7 +9,7 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-        I am a motivated and detail-oriented final-year BCA student at IPEM Group of Institutions with strong technical skills in C, C++, HTML,CSS,JavaScript,Bootstrap,Reactjs,Nodejs,Expressjs,MongoDB, and Data Structures. As a result-oriented professional, I am eager to build a career in a field where I can showcase my skills. I thrive as a team player and believe that maintaining a positive attitude can take my career to new heights.
+        I Am a  Motivated and detail-oriented final-year BCA student at IPEM Group of Institutions with a strong technical skill set in C, C++, HTML, CSS, JavaScript, Bootstrap. ReactJS, NodeJS, ExpressJS, MongoDB, and data structures. Seeking to build a career where I can effectively showcase my skills. Excel in teamwork and firmly believe that maintaining a positive attitude is key to advancing my career.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
